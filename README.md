@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Front-End & Web Design!
 
 Achievements & Experiences:
-🥇Juara 1 Design Poster Digital - SMAK 7 PENABUR (2022)
-🥉Juara 3 Design Poster Digital - SMK Telkom Malang (2024)
-Tim Multimedia SMPK PENABUR Summarecon Bekasi
+- 🥇Juara 1 Design Poster Digital - SMAK 7 PENABUR (2022)
+- 🥉Juara 3 Design Poster Digital - SMK Telkom Malang (2024)
+- 🎓 Tim Multimedia SMPK PENABUR Summarecon Bekasi
 
 <!---
 Matthew-web-css/Matthew-web-css is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
