@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Matthew-web-css
+- 👋 Hi, I’m Matthew Vallerio Darmawan
 - 👀 I’m interested in Web-Development & Multimedia Komunikasi dan Produksi
-- 🌱 I’m currently learning Front-End & Web Design!
+- 🌱 I’m currently learning Front-End, C++ Basics Programming, & Web Design!
 
 Achievements & Experiences:
 - 🥇Juara 1 Design Poster Digital - SMAK 7 PENABUR (2022)
