@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Matthew-web-css
 - 👀 I’m interested in Web-Development & Multimedia Komunikasi dan Produksi
 - 🌱 I’m currently learning Front-End & Web Design!
-- Programming Language : JavaScript & C++ 
 
 Achievements & Experiences:
 - 🥇Juara 1 Design Poster Digital - SMAK 7 PENABUR (2022)
