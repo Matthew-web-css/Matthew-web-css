@@ -66,4 +66,5 @@ int main() {
    } else if (checkAns == "B" || checkAns == "b" || checkAns == "TIDAK" || checkAns == "tidak" || checkAns == "Tidak") {
       std::cout << "Total Pembayarannya adalah " << totalPembayaran1 << std::endl;
    }
-}         
+}        
+}
